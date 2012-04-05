@@ -16,6 +16,8 @@ $l["postdata_missing_subject"] = "Yer subject is missing. Scrawl a subject for y
 $l["postdata_missing_message"] = "Yer message is missing. Scrawl a message you're shoutin' to yer hearties.";
 $l["postdata_message_too_long"] = "Yer message is too long. Scrawl a message shorter than {1} scribbly things (currently {2}).";
 $l["postdata_message_too_short"] = "Yer message is too short. Scrawl a message longer than {1} scribbly things.";
+$l['postdata_subject_too_long'] = "Yer subject be too long yarrrr. Scrawl a subject no more than 85 scribbly things (be {1} at the time o' writin').";
+
 $l["postdata_post_flooding"] = "Yer tryin' to shout a message too quickly after scrawlin' another message. Wait anoth'r {1} seconds yer sea dog.";
 $l["postdata_post_flooding_one_second"] = "Yer tryin' to shout a message too quickly after scrawlin' another message. Wait anoth'r 1 second yer sea dog.";
 $l["postdata_too_many_images"] = "Arrr ye scrawlin' be full of {1} portaits! Only {2} be allowed in yer scrawl.";

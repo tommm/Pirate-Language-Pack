@@ -29,7 +29,7 @@ $l['captcha_matches'] = "Aye! Ye be man!";
 
 $l['banned_username'] = "Yer Pirate Name ye been given has been banned by the Cap'n.";
 $l['banned_characters_username'] = "Yer Pirate Name has a bad character.";
-$l['complex_password_fails'] = "Password is not complex enough";
+$l['complex_password_fails'] = "Secret Code be needin' an upper case character, lower case character and one of 'em numbers, aye.";
 $l['username_taken'] = "Deckhand {1} is already apart of our Crew";
 $l['username_available'] = "Deckhand {1} ready to board, aye aye!";
 $l['invalid_username'] = "{1} not be a name of a Crew member";

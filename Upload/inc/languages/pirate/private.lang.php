@@ -98,6 +98,7 @@ $l['max_recipients'] = "<br />Ye may be sendin' this bottle t' nay more than <st
 $l['compose_subject'] = "Label:";
 $l['compose_message'] = "Message:";
 $l['compose_options'] = "Settin's:";
+$l['message_icon'] = "Message Portrait:";
 $l['options_sig'] = "<strong>Flag:</strong> hoist yer flag with this scrawl.";
 $l['options_disable_smilies'] = "<strong>Disable Scrogs:</strong> disable scrogs from showing in this scrawl.";
 $l['options_save_copy'] = "<strong>Save a Copy:</strong> be savin' a copy to me Sent Items box.";

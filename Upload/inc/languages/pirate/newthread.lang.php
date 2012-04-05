@@ -36,6 +36,7 @@ $l['verification_subnote'] = "(case insensitive)";
 $l['invalid_captcha'] = "Yer Verification Code not be right matey. Write the Code as it appears in the portrait, aye.";
 $l['error_post_already_submitted'] = "Yer tale be in this ledger already me hearty! Set a course for the Ledger!";
 $l['no_prefix'] = "No Doubloons";
+$l['forum_rules'] = "{1} - Codes";
 
 $l['multiquote_external_one'] = "Ye be selectin' scrawlin's from out of these tales.";
 $l['multiquote_external'] = "Ye be selectin' {1} scrawlin's from out of these tales.";

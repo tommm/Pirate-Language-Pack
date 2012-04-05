@@ -85,7 +85,7 @@ $l['postrep_post'] = "Post #";
 $l['postrep_given'] = "Marque given for {1}<br />";
 $l['no_reputation_votes'] = "This Pirate be not havin' any marque's for the settin's below.";
 $l['delete_reputation_confirm'] = "Are ye sure you want to be scuttlin' this marque?";
-$l['delete_reputation_log'] = "Removed Marque by {1}";
+$l['delete_reputation_log'] = "Removed Marque by {1} (UID: {2})";
 $l['reputations_disabled_group'] = "Ye cannot be usin' marque's as Cap'n not be allowing ye.";
 $l['rate_user'] = "Rate me Matey";
 ?>

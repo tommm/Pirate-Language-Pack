@@ -26,6 +26,7 @@ $l['preview_post'] = "Look at me Scrawl";
 $l['mod_options'] ="Cap'n's Settin's:";
 $l['close_thread'] = "<strong>Forbidden Tale</strong>: stop any mateys from writin' scrawlin's in me tale.";
 $l['stick_thread'] = "<strong>Anchor Tale:</strong> anchor this tale t' top of yer Ledger.";
+$l['forum_rules'] = "{1} - Codes";
 $l['thread_review'] = "Tale History (Newest be First)";
 $l['thread_review_more'] = "This tale be more than {1} scrawlin's. <a href=\"{2}\">Read the whole tale.</a>";
 $l['posted_by'] = "Writ'n be";
