@@ -13,7 +13,7 @@
 $langinfo['name'] = "Pirate (English)";
 $langinfo['author'] = "Tomm";
 $langinfo['website'] = "http://xekko.co.uk";
-$langinfo['version'] = "1606";
+$langinfo['version'] = "1608";
 $langinfo['admin'] = 0;
 $langinfo['rtl'] = 0;
 $langinfo['htmllang'] = "en";

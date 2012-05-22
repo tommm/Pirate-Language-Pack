@@ -47,6 +47,7 @@ You have received a warning from the staff of {2}.
 --
 
 --";
+$l['expiration_never'] = "permanently";
 $l['expiration_hours'] = "hours";
 $l['expiration_days'] = "days";
 $l['expiration_weeks'] = "weeks";
@@ -82,7 +83,7 @@ $l['result'] = "Result:";
 $l['result_banned'] = "User will be moved to banned group ({1}) {2}";
 $l['result_suspended'] = "Posting privileges will be suspended {1}";
 $l['result_moderated'] = "Posts will be moderated for {1}";
-$l['result_period'] = "{1} {2}";
+$l['result_period'] = "for {1} {2}";
 $l['hour_or_hours'] = "Hour(s)";
 $l['day_or_days'] = "Day(s)";
 $l['week_or_weeks'] = "Week(s)";

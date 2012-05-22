@@ -13,7 +13,7 @@
 $l['nav_online'] = "Deckhand's Log";
 $l['nav_onlinetoday'] = "Deckhand's Log for Today";
 
-$l['viewing_announcements'] = "Viewin' <a href=\"{1}\">{2}</a> Codes";
+$l['viewing_announcements'] = "Viewin' Code <a href=\"{1}\">{2}</a>";
 $l['viewing_announcements2'] = "Viewin' Ledger Codes";
 $l['viewing_attachment'] = "Viewin' Booty";
 $l['viewing_attachment2'] = "Viewin' <a href=\"attachment.php?aid={1}\" target=\"_blank\">Botty</a> in the <a href=\"{3}\">{2}</a> Tale";
@@ -79,6 +79,7 @@ $l['viewing_noperms'] = "Vistin' Davy Jones' Locker";
 $l['unknown_location'] = "<a href=\"{1}\">O'er the Horizon</a>";
 $l['giving_reputation'] = "Ratin' <a href=\"{1}\">{2}</a> to be a fine Deckhand";
 $l['viewing_reputation_report'] = "Viewin' <a href=\"{1}\">{2}'s Ratin's</a>";
+$l['viewing_reputation_report2'] = "Viewin' Ratin's";
 $l['member_resendactivation'] = "Resendin' Crew Activation Parrot";
 $l['member_lostpw'] = "Retrievin' a <a href=\"member.php?action=lostpw\">Secret Code</a>";
 $l['sending_thread'] = "Tellin' a Matey about a Tale";
