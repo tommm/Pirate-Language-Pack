@@ -10,8 +10,8 @@
 +---------------------------------------------------------------------------
 */
 
-$l['all_forums'] = "All Forums";
-$l['forum'] = "Forum:";
+$l['all_forums'] = "All Ledgers";
+$l['forum'] = "Ledger:";
 $l['posted_by'] = "Posted By:";
 $l['on'] = "on";
-?>
+$l['portal'] = "Portal";

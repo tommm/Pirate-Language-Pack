@@ -28,7 +28,7 @@ $l['index_logout'] = "Abandon Ship";
 $l['private_messages'] = "Bottle o' Messages";
 $l['pms_new'] = "Ye be seein' {1} new bottles in yer port.";
 $l['pms_unread_total'] = "(There be {1} new bottles in port an' {2} bottles in yer box o' bottles.)";
-$l['stats_posts_threads'] = "Arrrr the Crew be tellin' {2} tales an {1} scrawlin's.";
+$l['stats_posts_threads'] = "Arrrr the Crew be tellin' {2} tales an' {1} scrawlin's.";
 $l['stats_numusers'] = "There be {1} deckhands listed on t' Crew.";
 $l['stats_newestuser'] = "Be welcomin' to our new'st matey, <b>{1}</b>, arrrr!";
 $l['stats_mostonline'] = "Most deckhands be aboard me vessel is {1} on {2} at {3}.";
@@ -44,4 +44,3 @@ $l['online_guest_plural'] = "scurvy dogs";
 $l['online_guest_singular'] = "scurvy dog";
 $l['online_note'] = "Ther'd be {1} {2} aboard in {3} minutes gone past ({4} {5}, {6} be mysterious an' {8} {9}).";
 $l['subforums'] = "<strong>Sub Ledgers:</strong>";
-?>

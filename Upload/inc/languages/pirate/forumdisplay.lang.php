@@ -13,6 +13,7 @@
 $l['post_thread'] = "Tell a Tale";
 $l['moderated_by'] = "Cap'n:";
 $l['nothreads'] = "There be no tales in this ledger with yer time o' day settin's.";
+$l['nopermission'] = "Ye don't 'ave Cap'n's permission to be viewin tales in 'tis Ledger.";
 $l['search_forum'] = "Scour these Tales:";
 $l['thread'] = "Tale";
 $l['author'] = "Deckhand";
@@ -20,6 +21,10 @@ $l['replies'] = "Scrawls";
 $l['views'] = "Viewin's";
 $l['lastpost'] = "Last Scrawl";
 $l['rating'] = "Ratin's";
+$l['prefix'] = "Dubloon:";
+$l['prefix_all'] = "Dubloon: Any/No Dubloon";
+$l['prefix_any'] = "Dubloon: Any Dubloon";
+$l['prefix_none'] = "Dubloon: No Dubloon";
 $l['markforum_read'] = "Aye Ledger 'tis Read";
 $l['subscribe_forum'] = "Send me Parrots";
 $l['unsubscribe_forum'] = "Stop me Parrots";
@@ -60,6 +65,8 @@ $l['close_threads'] = "Forbid these Tales";
 $l['open_threads'] = "Open Tales for Crew";
 $l['stick_threads'] = "Anchor Tales";
 $l['unstick_threads'] = "Up Anchor o' Tales";
+$l['soft_delete_threads'] = "Half Scuttle Tales";
+$l['restore_threads'] = "D'scuttle Tales";
 $l['delete_threads'] = "Scuttle Tales";
 $l['move_threads'] = "Amend course o' Tale";
 $l['approve_threads'] = "Approve o' Tale";
@@ -75,8 +82,8 @@ $l['forum_announcements'] = "Ledger Codes";
 $l['sticky_threads'] = "Tales ye should be readin'";
 $l['normal_threads'] = "Tales";
 $l['icon_dot'] = "Has scrawls by ye, aye. ";
-$l['icon_no_new'] = "Ney new scrawlin's.";
-$l['icon_new'] = "New scrawlin's.";
+$l['icon_no_new'] = "Ney new Scrawlin's.";
+$l['icon_new'] = "New Scrawlin's.";
 $l['icon_hot'] = " Legend Tale.";
 $l['icon_lock'] = " Forbidden Tale.";
 $l['attachment_count'] = "Tale contains some booty!";
@@ -94,4 +101,5 @@ $l['select_all'] = "Select all <strong>{1}</strong> tales in this ledger.";
 $l['clear_selection'] = "Avast Selection.";
 
 $l['error_containsnoforums'] = "The ledger ye be lookin' at doesn't have any sub ledgers.";
-?>
+
+$l['inline_edit_description'] = '(Click and hold to edit)';

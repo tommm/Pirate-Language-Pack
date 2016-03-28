@@ -19,4 +19,3 @@ $l['subject'] = "Label:";
 $l['message'] = "Message:";
 $l['error_nosubject'] = "Ye need to be enterin' a label for yer matey.";
 $l['error_nomessage'] = "Arrgg! How can yer matey know about this tale without yer message?!";
-?>

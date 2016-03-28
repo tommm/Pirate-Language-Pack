@@ -37,4 +37,3 @@ $l["eventdata_invalid_repeat_year_interval"] = "Yer entered a year repeat interv
 $l["eventdata_event_wont_occur"] = "Using yer ahoy and avast times with yer repetition settin's, yer callin' won't occur.";
 
 $l["eventdata_no_permission_private_event"] = "Yer Cap'n hasn't asked yer to make callin's - scrub the deck yer seaweed!";
-?>

@@ -93,6 +93,7 @@ $l['delete_q'] = "Sink?";
 $l['delete_1'] = "To sink tis callin', mark the checkbox to the left th'n click the button t' yer right.";
 $l['delete_2'] = "<b>Scroll:</b> Yer action cannot be undone.";
 $l['delete_now'] = "Sink Now";
+$l['delete_no_checkbox'] = "Tis callin' was not sunk because ye didn't mark the \"Sink\" checkbox.";
 $l['jump_to_calendar'] = "Abandon ship to calendarrrr:";
 $l['select_calendar'] = "Calendarrrr:";
 $l['type_single'] = "Single day Callin'";
@@ -144,4 +145,4 @@ $l['redirect_eventadded'] = "Yer callin' has been writtin.<br />Set course for y
 $l['redirect_eventadded_moderation'] = "Yer callin' has been written an' sent to Cap'n before yer mateys can see it.<br />Set yer sails back to the calendarrrr.";
 $l['redirect_eventunapproved'] = "Yer nay'd the callin'.<br />Grab yer booty as we'll be settin' course.";
 $l['redirect_eventapproved'] = "The callin' is approved.<br />Set yer course yer scurrvy ol' sea dog!";
-?>
+$l['redirect_eventmoved'] = "The callin' has been moved.<br />Yer course 'as been set!";

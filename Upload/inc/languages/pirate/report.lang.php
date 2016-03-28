@@ -10,14 +10,26 @@
 +---------------------------------------------------------------------------
 */
 
-$l['report_post'] = "Report Scrawl";
+$l['report_reason'] = "Report Reason:";
 $l['report_to_mod'] = "Reportin' this scrawl to a Cap'n";
-$l['only_report'] = "Aye! Ye should be reportin' scrawls the be full o' seaweed or scuttle fish...";
-$l['report_reason'] = "Yer reason for tellin' the Cap'n for this scrawl:";
-$l['thank_you'] = "Arrrr! Thanks me hearty!";
-$l['post_reported'] = "Yer report be waitin' for the Cap'n. Ye can be closin' this port hole aye.";
-$l['report_error'] = "Ahoy!";
-$l['no_reason'] = "Ye cannot be reportin' a scrawl without a reason savvy?";
-$l['go_back'] = "Back";
 $l['close_window'] = "Close Port Hole";
-?>
+
+// Content types
+$l['report_content'] = "Report Content";
+$l['report_reason_post'] = "Report Scrawlin'";
+$l['report_reason_profile'] = "Report Pirate";
+$l['report_reason_reputation'] = "Report Marque";
+
+// Content reasons
+$l['report_reason_bad'] = "Inappropriate Content";
+$l['report_reason_spam'] = "Seaweed";
+$l['report_reason_rules'] = "Breaks Ship's Code";
+$l['report_reason_wrong'] = "Wrong Ledger";
+$l['report_reason_other'] = "Otharrr Reason";
+
+$l['success_report_voted'] = "Thanks for reporting this content.<br />A member of Yer Cap'n's Crew will check your report soon.";
+
+$l['error_report_length'] = "Please provide a detailed reason for your report.";
+$l['error_invalid_report'] = "This content either does not exist or is not able to be reported.";
+$l['error_report_duplicate'] = "This content has already been reported by another member.<br />You may also report this content below.";
+$l['report_reason_other_description'] = "If 'Otharrr Reason' please provide a reason for reporting this content.";
