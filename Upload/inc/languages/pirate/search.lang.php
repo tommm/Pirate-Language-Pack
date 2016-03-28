@@ -63,19 +63,24 @@ $l['post_subject'] = "Scrawl:";
 $l['replies2'] = "scrawlin's";
 $l['selectall'] = "Select all o' t' additional results?";
 $l['any_prefix'] = "Find me tales with any dubloon";
-$l['no_prefix'] = "No prefix";
+$l['no_prefix'] = "No dubloon";
 $l['inline_thread_moderation'] = "Tale Settin's";
 $l['close_threads'] = "Forbid these Tales";
 $l['open_threads'] = "Open Tales for Crew";
 $l['stick_threads'] = "Anchor Tales";
 $l['unstick_threads'] = "Up Annchor o' Tales";
+$l['soft_delete_threads'] = "Half Scuttle Tales";
+$l['restore_threads'] = "D'scuttle Tales";
 $l['delete_threads'] = "Scuttle Tales";
 $l['move_threads'] = "Amend Course o'Tales";
 $l['approve_threads'] = "Approve o' Tale";
 $l['unapprove_threads'] = "Disband Tale t' Gallows";
+$l['inline_soft_delete_posts'] = "Half Scuttle Scrawlin's";
+$l['inline_restore_posts'] = "D'scuttle Scrawlin's";
 $l['inline_delete_posts'] = "Scuttle Scrawlin's";
 $l['inline_merge_posts'] = "Be Merge'n Scrawlin's";
 $l['inline_split_posts'] = "Be Split'n Scrawlin's";
+$l['inline_move_posts'] = "Be Move'n Scrawlin's";
 $l['inline_approve_posts'] = "Approve o' Scrawl";
 $l['inline_unapprove_posts'] = "Disband Scrawl t' Gallows";
 $l['inline_post_moderation'] = "Scrawl Settin's:";
@@ -96,9 +101,10 @@ $l['clear_selection'] = "Avast Selection.";
 
 $l['results'] = "results";
 $l['mod_options'] = "Cap'n's Settin's";
-$l['find_all'] = "Find all";
-$l['find_only_approved'] = "Find only approved";
-$l['find_only_unapproved'] = "Find only unapproved";
+$l['display_all'] = "Display all";
+$l['display_only_approved'] = "Display only approved";
+$l['display_only_unapproved'] = "Display only unapproved";
+$l['display_only_softdeleted'] = "Display only soft deleted";
 
 $l['redirect_searchresults'] = "Arrrrrr! I see yer terms ahoy!";
 
@@ -109,4 +115,3 @@ $l['error_nosearchterms'] = "Ye be not enterin' any scourin' terms me matey. Yer
 $l['error_searchflooding_1'] = "Ye be only scourin' one scour every {1} seconds. Be waitin' 1 second before scourin' again.";
 $l['error_searchflooding'] = "Ye be only scourin' one scour every {1} seconds. Be waitin' {2} second before scourin' again.";
 $l['error_invalidsearch'] = "An invalid scour be 'appenin'. Be headin' back and be tryin' again.";
-?>

@@ -12,6 +12,7 @@
 
 $l['no_new_subject'] = "Ye be not enterin' a new label me hearty!";
 $l['post_moderation'] = "Yer scrawlin' be in the queue for the Cap'n to view.";
+$l['thread_moderation'] = "Yer tale be in the queue for the Cap'n to view.";
 $l['post_doesnt_exist'] = "The scrawl ye be lookin' for must be in Davy Jones' Locker aye.";
 $l['thread_doesnt_exist'] = "The tale ye be lookin' for must be in Davy Jones' Locker aye.";
 $l['thread_closed_edit_subjects'] = "The tale be forbidden, an' the label can't be amended.";
@@ -20,12 +21,15 @@ $l['thread_closed_edit_message'] = "This tale be fobidden and ye not be editin' 
 $l['no_permission_edit_post'] = "Ye don't have any permissions to be editin' this message.";
 $l['edit_time_limit'] = "You can only edit messages for {1} minutes after they were posted.";
 $l['postbit_edited'] = "This be last amended: {1} {2} be";
+$l['postbit_editreason'] = "Amend Reason";
 $l['save_changes'] = "Save Changes";
 $l['cancel_edit'] = "Cancel Amendin'";
+$l['answer_valid_not_exists'] = "The question ye be answerin' doesn't exist.";
 $l['captcha_not_exists'] = "Yer Beastly Code image yer tryin' to refresh not be existin' aye.";
 $l['captcha_valid_not_exists'] = "Yer Beastly Code image yer tryin' to refresh not be existin' aye.";
 $l['captcha_does_not_match'] = "Yer Verification Code not be right matey. Write the Code as it appears in the portrait, aye.";
 $l['captcha_matches'] = "Aye! Ye be man!";
+$l['answer_does_not_match'] = "Ye be givin' an incorrect answer.";
 
 $l['banned_username'] = "Yer Pirate Name ye been given has been banned by the Cap'n.";
 $l['banned_characters_username'] = "Yer Pirate Name has a bad character.";
@@ -45,4 +49,3 @@ $l['online'] = "In Port";
 $l['offline'] = "Out t' Sea";
 $l['edited_post'] = "Amended Scrawl";
 $l['usergroup'] = "Crew";
-?>

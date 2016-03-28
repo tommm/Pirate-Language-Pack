@@ -24,4 +24,3 @@ $l["pmdata_recipient_reached_quota"] = "{1}'s port is already full of bottles o'
 
 $l["pmdata_pm_flooding"] = "Yer skivvy hasn't delivered yer previous bottles yet. Garrrrr wait {1} more seconds.";
 $l["pmdata_pm_flooding_one_second"] = "Yer skivvy hasn't delivered yer previous bottles yet. Garrrrr wait 1 more second.";
-?>

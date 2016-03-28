@@ -52,9 +52,11 @@ $l['joined'] = "Aboard since:";
 $l['lastvisit'] = "Last Anchor'd:";
 $l['total_posts'] = "Scrawlin's:";
 $l['ppd_percent_total'] = "{1} scrawls per day | {2} percent of yer ship's scrawlin's";
+$l['total_threads'] = "Tales:";
+$l['tpd_percent_total'] = "{1} tales per day | {2} percent of yer ship's tales";
 $l['find_posts'] = "Scour for me Scrawls";
 $l['find_threads'] = "Read all me Tales";
-$l['members_referred'] = "Deckhands Aboard:";
+$l['members_referred'] = "Deckhands Referred:";
 $l['rating'] = "Ratin':";
 $l['users_contact_details'] = "{1}'s Coordinates";
 $l['homepage'] = "Territory:";
@@ -63,7 +65,8 @@ $l['send_pm'] = "Send {1} a bottle.";
 $l['icq_number'] = "ICQ Number:";
 $l['aim_screenname'] = "AIM Screen Name:";
 $l['yahoo_id'] = "Yahoo ID:";
-$l['msn'] = "MSN ID:";
+$l['skype_id'] = "Skype ID:";
+$l['google_id'] = "Google Talk ID:";
 $l['avatar']  = "Portrait:";
 $l['warning_level'] = "Black Spots:";
 $l['warn'] = "Be Warnin'";
@@ -72,6 +75,11 @@ $l['away_reason'] = "Sailin' for:";
 $l['away_since'] = "Been Sailin':";
 $l['away_returns'] = "On t' Horizon:";
 $l['away_no_reason'] = " A Quest for Booty";
+$l['ban_note'] = "This deckhand is overboard.";
+$l['ban_by'] = "Sent Overboard By";
+$l['ban_length'] = "Ban Length";
+$l['ban_remaining'] = "remaining";
+
 $l['users_additional_info'] = "{1}'s Papers";
 $l['email'] = "Parrot:";
 $l['send_user_email'] = "Send {1} a Parrot.";
@@ -90,12 +98,13 @@ $l['optional_fields'] = "Optional Fields";
 $l['website_url'] = "Yer Territory URL:";
 $l['birthdate'] = "Time o' Sailin:";
 $l['additional_info'] = "Mischiefs and the Likes";
+$l['required_info'] = "Ye 'ave to be enterin'";
 $l['i_agree'] = "Aye Aye Cap'n!";
 $l['account_details'] = "Ship's Papers";
 $l['account_prefs'] = "Yer Settin's";
-$l['invisible_mode'] = "Hide me from t' On Board list";
+$l['invisible_mode'] = "Mask me from t' On Board list";
 $l['allow_notices'] = "Receive Parrots sent from me Cap'n";
-$l['hide_email'] = "Hide me Parrot Address from other Deckhands";
+$l['hide_email'] = "Mask me Parrot Address from other Deckhands";
 $l['email_notify'] = "Send me Parrot when thar be new scrawlin's that me be writt'n in";
 $l['receive_pms'] = "Receive bottles o' messages from other Deckhands";
 $l['pm_notice'] = "Show me notices when there be new bottles o' messages";
@@ -109,12 +118,13 @@ $l['dst_correction_disabled'] = "Never use DST correction";
 $l['redirect_registered_coppa_activate'] = "Thank you for registering on {1}, {2}. Your account has successfully been created, however, as the owner of this account is under the age of 13, parental permission needs to be sought before this account can be used.<br /><br />A parent or legal guardian will need to download, fill in and submit to us a completed copy of our <a href=\"member.php?action=coppa_form\">COPPA Compliance &amp; Permission form</a>.<br /><br />Once we receive a completed copy of this form, the account will be activated.";
 $l['coppa_compliance'] = "COPPA Compliance";
 $l['coppa_desc'] = "In order to register on these forums, we require you to verify your age to comply with <a href=\"http://coppa.org/\" title=\"Children's Online Privacy Protection Act\" target=\"_blank\">COPPA</a>. Please enter your date of birth below.<br /><br />If you are under the age of 13, parental permission must be obtained prior to registration. A parent or legal guardian will need to download, fill in and submit to us a completed copy of our <a href=\"member.php?action=coppa_form\" target=\"_blank\">COPPA Compliance &amp; Permission form</a>.";
-$l['hide_dob'] = "You can choose to hide your date of birth and age by editing your profile after registering.";
+$l['hide_dob'] = "You can choose to mask your date of birth and age by editing your profile after registering.";
+$l['signature'] = "Jolly Rodger:";
 $l['continue_registration'] = "Continue with Registration";
-$l['birthdayprivacy'] = "Date of Birth Privacy:";
-$l['birthdayprivacyall'] = "Display Age and Date of Birth";
-$l['birthdayprivacynone'] = "Hide Age and Date of Birth";
-$l['birthdayprivacyage'] = "Display Only Age";
+$l['birthdayprivacy'] = "Time Sailin' Privacy:";
+$l['birthdayprivacyall'] = "Display Time Sailin' and Date of Birth";
+$l['birthdayprivacynone'] = "Mask Time Sailin' and Date of Birth";
+$l['birthdayprivacyage'] = "Display Only Time Sailin'";
 $l['leave_this_field_empty'] = "Be leavin' this empty:";
 $l['error_need_to_be_thirteen'] = "You need to be of thirteen years or older to register on this forum.";
 $l['coppa_registration'] = "COPPA Registration Form";
@@ -132,13 +142,14 @@ $l['coppa_agreement_1'] = "Users under the age of 13 must receive permission fro
 $l['coppa_agreement_2'] = "A parent or legal guardian will need to download, fill in and submit to us a completed copy of our <a href=\"member.php?action=coppa_form\" target=\"_blank\">COPPA Compliance &amp; Permission form</a> before membership will be granted.";
 $l['coppa_agreement_3'] = "If you'd like to, you can begin the registration process now, however the account will be inaccessible until the above compliance form is received.";
 
+$l['error_invalid_birthday'] = "Yer Time Sailin' is invalid.";
 $l['error_awaitingcoppa'] = "You cannot login using this account as it is still awaiting COPPA validation from a parent or guardian.<br /><br />A parent or legal guardian will need to download, fill in and submit to us a completed copy of our <a href=\"member.php?action=coppa_form\">COPPA Compliance &amp; Permission form</a>.<br /><br />Once we receive a completed copy of this form, the account will be activated.";
 
 $l['lang_select'] = "Tongue Settin's:";
 $l['lang_select_desc'] = "If yer from a land o'er te horizon, select a readable tongue for ye below.";
 $l['lang_select_default'] = "Use Default";
 
-$l['submit_registration'] = "Submit Registration!";
+$l['submit_registration'] = "Yoin ye Crew! Arrrr!";
 $l['confirm_password'] = "Confirm yer Secret Code:";
 $l['referrer'] = "Me Matey:";
 $l['referrer_desc'] = "If one of yer mateys told ye about this ship, enter their name below. If not, simply leave this field blank.";
@@ -150,33 +161,37 @@ $l['tpp'] = "Tales a Page:";
 $l['tpp_desc'] = "Select how many tales ye see in a ledger";
 $l['reset_password'] = "Reset yer Secret Code";
 $l['send_password'] = "Send me a New Secret Code";
-$l['image_verification'] = "Ye be Man or Beast?";
-$l['verification_note'] = " Enter the Code ye see on yer right into the box below. It prevents Beasts signin' up, aye.";
-$l['verification_subnote'] = "(case insensitive)";
 $l['registration_errors'] = "There be rough waters:";
 $l['timeonline'] = "Time ye Spent Aboard:";
+$l['timeonline_hidden'] = "(Mask'd)";
 $l['registrations_disabled'] = "The Cap'n is not allowin' new crew members at t' moment.";
 $l['error_username_length'] = "Yer Pirate Name is against the Code. Pirate Names have to be written in {1} to {2} characters.";
+$l['error_stop_forum_spam_spammer'] = "Yer {1} matches that of a known Beasty. Send yer Cap'n a parrot if me barnacles be wrong.";
+$l['error_stop_forum_spam_fetching'] = "Tharrrr be an error checking if ye be a Beasty. Please try again later.";
 
 $l['none_registered'] = "Ne'er been Aboard";
 $l['not_specified'] = "Aye, 'tis a Mystery";
 $l['membdayage'] = "({1} years sailed)";
 $l['mod_options'] = "Quartermaster Settin's";
 $l['edit_in_mcp'] = "Amend this Deckhand in t' Crow's Nest";
-$l['ban_in_mcp'] = "Black Spot this Deckhand in t' Crow's Nest";
+$l['ban_in_mcp'] = "Send this Deckhand overboard from t' Crow's Nest";
+$l['purgespammer'] = "Purge Beasty";
 $l['edit_usernotes'] = "Amend Deckhand Logs";
 $l['no_usernotes'] = "Arrr there be no deckhand logs 'ere.";
+$l['view_all_notes'] = "Be viewin' all Deckhand Logs";
+$l['view_notes_for'] = "Deckhand Log for {1}";
 $l['reputation'] = "Marque:";
 $l['reputation_vote'] = "Rate";
 $l['reputation_details'] = "Log";
 $l['already_logged_in'] = "Scroll: Ye be aboard as {1}.";
 $l['admin_edit_in_acp'] = "Amend this Deckhand on t' Cap'n's Deck";
-$l['admin_ban_in_acp'] = "Black Spot this Deckhand on t' Cap'n's Deck";
+$l['admin_ban_in_acp'] = "Send this Deckhand overboard from t' Cap'n's Deck";
 $l['admin_options'] = "Cap'n Options";
 
 $l['redirect_registered_activation'] = "Arrr ye be on {1}'s Crew, {2}.<p>Check yer Parrot Address for yer boardin' papers.";
 $l['redirect_emailupdated'] = "Yer Parrot Address has been amend'd.<br />Set a course for yer Port.";
 $l['redirect_accountactivated'] = "Yer account be activatin' arrrr!<br />Set a course for t' open seas!";
+$l['redirect_accountactivated_admin'] = "Yer Parrot Address has been validated.<br />Yer account must now be activated by a Cap'n. Ye may not be able to scrawl in this ship.<br />Yer course 'as been set for main deck.";
 $l['redirect_registered'] = "Step aboard the jolly {1}, Cap'n {2}!<br />Set a course for t' open seas!";
 $l['redirect_registered_admin_activate'] = "Step aboard the jolly {1}, Cap'n {2}!<br />Ye may be scrubbin' decks t' the Cap'n activatin' yer papers.";
 $l['redirect_loggedout'] = "Arrrr! Ye be abandon'd ship me scurvy ol' sea dog.<br />Set a course for t' open seas me hearties!.";
@@ -194,17 +209,20 @@ $l['error_alreadyregisteredtime'] = "We cannot process your registration because
 $l['error_badlostpwcode'] = "You seem to have entered an invalid password reset code. Please re-read the email you were sent or contact the forum administrators for more help.";
 $l['error_badactivationcode'] = "You have entered an invalid account activation code. To resend all activation emails to the email address on file, please click <a href=\"member.php?action=resendactivation\">here</a>.";
 $l['error_alreadyactivated'] = "It appears your account is already activated or does not require email verification.";
+$l['error_alreadyvalidated'] = "Your email have already been validated.";
 $l['error_nothreadurl'] = "Your message does not contain the URL of the thread. Please use the \"send to friend\" feature for it's intended purpose.";
-$l['error_bannedusername'] = "You have entered a username that is banned from registration.  Please choose another username.";
+$l['error_bannedusername'] = "Yer Pirate Name is against the Code. Scrawl a different Pirate Name.";
 $l['error_notloggedout'] = "Your user ID could not be verified to log you out.  This may have been because a malicious Javascript was attempting to log you out automatically.  If you intended to log out, please click the Log Out button at the top menu.";
 $l['error_regimageinvalid'] = "The image verification code that you entered was incorrect. Please enter the code exactly how it appears in the image.";
 $l['error_regimagerequired'] = "Please fill out the image verification code to continue the login process. Please enter the code exactly how it appears in the image.";
 $l['error_spam_deny'] = "Me Ship be tellin' me ye be a robot or somethin' made o' witchcraft. Be gone, beast!";
+$l['error_spam_deny_time'] = "Me Ship be tellin' me ye be a robot or somethin' made o' witchcraft. Be gone, beast! Only Beasties take less than {1} seconds, ye took {2} seconds.";
 
 $l['js_validator_no_username'] = "Ye must be needin' a Pirate Name.";
 $l['js_validator_invalid_email'] = "Ye need a valid Parrot Address.";
 $l['js_validator_email_match'] = "Ye matchin' Parrot Address needs to be t' same, arrr.";
 $l['js_validator_no_image_text'] = "Be enterin' right the Code for Ye be Man or Beast?";
+$l['js_validator_no_security_question'] = "Ye be needin' the answer to the question above";
 $l['js_validator_password_matches'] = "Yer Secret Codes need to be matchin' me hearty!";
 $l['js_validator_password_complexity'] = "Checkin' yer Secret Code...";
 $l['js_validator_password_length'] = "Yer Secret Code be needin' {1} or more charactarrrs.";
@@ -214,13 +232,29 @@ $l['js_validator_username_length'] = "Pirate Names be needin' {1} and {2} charac
 $l['js_validator_checking_referrer'] = "Checkin yer Matey...";
 $l['js_validator_captcha_valid'] = "Checking yer Beasty Code...";
 
+$l['security_question'] = "Beasty Question";
+$l['question_note'] = "Enter the answer for yer Beasty Question. It prevents Beasts signin' up, aye.";
+$l['error_question_wrong'] = "Yer Beasty Answer be incorrect!";
+
 $l['subscription_method'] = "Tale Parrots:";
-$l['no_auto_subscribe'] = "Don't send me yer Parrot";
-$l['no_email_subscribe'] = "Send me yer Parrot without mail";
+$l['no_auto_subscribe'] = "Don't tell me when there be new scrawlin's";
+$l['no_subscribe'] = "Don't send a Parrot or Bottle'd Message when there be new scrawlin's";
 $l['instant_email_subscribe'] = "Send me yer Parrot Mail when there be new scrawlin's";
+$l['instant_pm_subscribe'] = "Send me yer Bottle'd Message when there be new scrawlin's";
 
 $l['remove_from_buddy_list'] = "Remove from me Hearties List";
 $l['add_to_buddy_list'] = "Add me Hearty!";
 $l['remove_from_ignore_list'] = "Remove from me Scallywag List";
 $l['add_to_ignore_list'] = "Add as a Scallywag, aye!";
-?>
+$l['report_user'] = "Report Deckhand";
+
+
+$l['newregistration_subject'] = "New registration at {1}";
+$l['newregistration_message'] = "{1},
+
+There is a new user at {2} who is pending admin activation.
+
+Username: {3}
+
+Thank you,
+{2} Staff";

@@ -18,4 +18,3 @@ $l['error_invalidannouncement'] = "The Code yer asked for 'tis no longer exists.
 $l['announcement_edit'] = "Amend yer Code";
 $l['announcement_qdelete'] = "Sink dis Code to Davy Jones' Locker";
 $l['announcement_quickdelete_confirm'] = "Arrrr yer sure you want to sink this Code?";
-?>

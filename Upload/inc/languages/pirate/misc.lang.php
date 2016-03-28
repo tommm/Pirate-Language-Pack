@@ -15,10 +15,11 @@ $l['nav_smilies'] = "List o' Scrogs";
 $l['nav_syndication'] = "Latest Thread Syndication (RSS)";
 
 $l['aol_im'] = "AOL IM";
-$l['msn'] = "MSN Messenger";
+$l['skype'] = "Skype";
 $l['yahoo_im'] = "Yahoo IM";
-$l['msn_messenger_center'] = "MSN Messenger Center";
-$l['msn_address_is'] = "{1}'s MSN Address is:";
+$l['skype_center'] = "Skype Center";
+$l['chat_on_skype'] = "Chat with {1} on Skype";
+$l['call_on_skype'] = "Call {1} on Skype";
 $l['yahoo_center'] = "Yahoo! Center";
 $l['send_y_message'] = "Send {1} a Yahoo! Message.";
 $l['view_y_profile'] = "View {1}'s Yahoo! Profile.";
@@ -27,20 +28,35 @@ $l['aim_center'] = "AOL IM Center";
 $l['download_aim'] = "Download AIM";
 $l['aim_remote'] = "AIM Remote";
 $l['send_me_instant'] = "Send me an Instant Message";
-$l['add_me_buddy_list'] = "Add me to Your Buddy List";
+$l['add_me_buddy_list'] = "Add me to yer Hearties";
 $l['add_remote_to_page'] = "Add Remote to Your Page";
 $l['download_aol_im'] = "Download AOL Instant Messenger";
 
 $l['buddy_list'] = "Me Hearties";
 $l['online'] = "Anchor'd";
+$l['online_none'] = "<em>None of me Hearties arrrr anchor'd</em>";
 $l['offline'] = "Out t' Sea";
+$l['offline_none'] = "<em>None of me Hearties arrrr out t' Sea</em>";
 $l['delete_buddy'] = "X";
 $l['pm_buddy'] = "Send a Parrot";
 $l['last_active'] = "<strong>Last Boardin':</strong> {1}";
 $l['close'] = "Scuttle";
 $l['no_buddies'] = "<em>There be no hearties 'ere. Use yer Home Port or be sailin' to profiles to add a matey.</em>";
 
-$l['help_docs'] = "Help Documents";
+$l['help_docs'] = "Mayday Charts";
+
+$l['search_help_documents'] = "Scour Mayday Charts";
+$l['search_by_name'] = "Scour by Name";
+$l['search_by_document'] = "Scour by Chart";
+$l['enter_keywords'] = "Enter Keywords";
+$l['search'] = "Scour";
+$l['redirect_searchresults'] = "Course set for your Mayday Charts.";
+$l['search_results'] = "Scour Results";
+$l['help_doc_results'] = "Mayday Charts Results";
+$l['document'] = "Chart";
+$l['error_nosearchresults'] = "Arrrr! There be no results for that.";
+$l['no_help_results'] = "Arrrr! There be no results for that.";
+$l['error_helpsearchdisabled'] = "Arrrr! Yer Cap'n 'as forbidden scourin' Mayday Charts.";
 
 $l['smilies_listing'] = "Smilies Listing";
 $l['name'] = "Name";
@@ -77,9 +93,13 @@ $l['redirect_markforumsread'] = "Arrr! Ye Ledgers be read me hearty!";
 $l['redirect_forumpasscleared'] = "Yer Secret Code for yer Ledger be blown to smithereens!";
 $l['redirect_cookiescleared'] = "Ye sweet cookies be eaten, me hearty!";
 
-$l['error_invalidimtype'] = "This user does not have this type of instant messenger account specified in their profile.";
-$l['error_invalidhelpdoc'] = "The specified help document does not appear to exist.";
-$l['error_invalidkey'] = "You could not be verified to clear cookies.  This may have been because a malicious Javascript was attempting to clear your cookies automatically. If you intended to clear your cookies, please view the \"Use of Cookies on MyBB\" help document.";
+
+$l['error_invalidforum'] = "Invalid Ledger";
+$l['error_invalidhelpdoc'] = "Arrrr there be no Mayday Charts 'ere.";
+$l['error_invalidimtype'] = "This Deckhand doesn't 'ave that IM";
+$l['error_invalidsearch'] = "Yer scour was rotton. Ye be needin' to scour again.";
+$l['error_no_search_support'] = "This ship doesn't support scourin'.";
+$l['error_searchflooding'] = "Arrrr! Pirates can only scour every {1} seconds. Ye be be waitin' another {2} seconds before scourin' again.";
+$l['error_searchflooding_1'] = "Arrrr! Pirates can only scour every 1 second. Ye be be waitin' another {2} seconds before scourin' again.";
 
 $l['dst_settings_updated'] = "Your daylight saving time settings have automatically been adjusted.<br /><br />You will now be taken back to the forum index.";
-?>

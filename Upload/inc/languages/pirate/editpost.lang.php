@@ -19,6 +19,7 @@ $l['delete_2'] = "<b>Scroll:</b> If this scrawl be the first scrawl of yer tale,
 $l['subject'] = "Label";
 $l['your_message'] = "Yer Message";
 $l['post_options'] = "Scrawl Settin's:";
+$l['editreason'] = "Amend Reason:";
 $l['options_sig'] = "<strong>Flag:</strong> hoist yer flag with this scrawl. (Crew only)";
 $l['options_emailnotify'] = "<strong>Parrot Notifications:</strong> receive a new Parrot whenever there is a new scrawl. (Crew only)";
 $l['options_disablesmilies'] = "<strong>Disable Scrogs:</strong> disable scrogs from showing in this scrawl.";
@@ -34,16 +35,25 @@ $l['edit_time_limit'] = "Yer Cap'n says yer scrawls can only be edited within {1
 $l['no_prefix'] = "No Doubloons";
 
 $l['redirect_nodelete'] = "Nay, yer scrawl wasn't scuttled for ye didn't mark the \"Scuttle\" checkbox.";
+$l['redirect_norestore'] = "Nay, yer scrawl wasn't d'scuttled for ye didn't check the \"D'scuttle\" checkbox.";
 $l['redirect_postedited'] = "Arrr me hearty, yer scrawl has been amended.<br />";
 $l['redirect_postedited_redirect'] = "Set course for yer tale!";
 $l['redirect_postedited_poll'] = "Arrr me hearty, yer scrawl has been amended. <br />All hands to deck for yer vote settin's!";
 $l['error_invalidpost'] = "Ye be hornswaggler! Arrrr yer be sure the scrawl exists an' not be in Davy Jones' Locker.";
 $l['redirect_threaddeleted'] = "Arrr yer tale be scuttl'd from 'istory. <br />Set a course for ye Ledger.";
 $l['redirect_postdeleted'] = "Yer scrawl be scuttl'd from 'istory me hearty!<br />Drop to the deck an' be scrubbin' while we head to the tale.";
+$l['redirect_threadrestored'] = "Yer tale be d'scuttled.<br />Set a course for ye Ledger.";
+$l['redirect_postrestored'] = "Yer scrawl be d'scuttled.<br />Drop to the deck an' be scrubbin' while we head to the tale.";
 $l['redirect_threadclosed'] = "Ye cannot be amendin' scrawls when Cap'n 'as finished tellin' the tale.";
 $l['redirect_post_moderation'] = "Yer Cap'n wants to look at all scrawls in the tale before the Crew can see. Head to deck for the rest o' the tale.";
 $l['redirect_thread_moderation'] = "Cap'n wants to look at all tales before the Crew can see. Be three sheets to the wind and enjoy t'other tales in the ledger.";
+$l['error_already_delete'] = "Ye scrawl already be scuttl'd from 'istory.";
 
 $l['thread_deleted'] = "Scuttled Tale";
 $l['post_deleted'] = "Scuttled Scrawl";
-?>
+$l['thread_soft_deleted'] = "Half Scuttled Tale";
+$l['post_soft_deleted'] = "Half Scuttled Scrawl";
+$l['thread_restored'] = "D'scuttled Tale";
+$l['post_restored'] = "D'scuttled Scrawl";
+
+$l['error_already_deleted'] = "Ye scrawl already be scuttl'd from 'istory.";

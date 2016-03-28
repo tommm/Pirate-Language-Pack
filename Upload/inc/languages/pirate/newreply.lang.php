@@ -31,10 +31,6 @@ $l['thread_review'] = "Tale History (Newest be First)";
 $l['thread_review_more'] = "This tale be more than {1} scrawlin's. <a href=\"{2}\">Read the whole tale.</a>";
 $l['posted_by'] = "Writ'n be";
 $l['draft_saved'] = "Yer new scrawl be plunder'd to yer drafts.<br />Set a course for yer port!";
-$l['image_verification'] = "Ye be Man or Beast?";
-$l['verification_note'] = "Enter the Code ye see on yer right into the box below. It prevents Beasts from writin', aye.";
-$l['verification_subnote'] = "(case insensitive)";
-$l['invalid_captcha'] = "Yer Verification Code not be right matey. Write the Code as it appears in the portrait, aye.";
 $l['error_post_already_submitted'] = "Yer scrawl be in this tale already me hearty! Set a course for the tale to see your scrawl.";
 $l['multiquote_external_one'] = "Ye be selectin' scrawlin's from out of these tales.";
 $l['multiquote_external'] = "Ye be selectin' {1} scrawlin's from out of these tales.";
@@ -49,4 +45,12 @@ $l['redirect_newreply_post'] = "<br />Set a course for yer scrawl!";
 $l['redirect_newreplyerror'] = "Arrr! Ye be writin' seaweed me hearty. <br />Ye be headin' back to the tale.";
 $l['redirect_threadclosed'] = "A Cap'n be forbidden new scrawlin's in this tale.";
 $l['error_post_noperms'] = "Ye be havin' no permissions to be amendin' this scrawl.";
-?>
+
+$l['error_stop_forum_spam_spammer'] = "Yer {1} matches that of a known Beasty. Send yer Cap'n a parrot if me barnacles be wrong.";
+$l['error_stop_forum_spam_fetching'] = "Tharrrr be an error checking if ye be a Beasty. Please try again later.";
+
+$l['error_suspendedposting'] = "Yer scrawlin' privileges are currently suspended {1}.<br /><br />
+
+Suspension Date: {2}";
+$l['error_suspendedposting_temporal'] = "'til {1}";
+$l['error_suspendedposting_permanent'] = "'til the End o' Time";

@@ -1,4 +1,4 @@
-<?php 
+<?php
 /*
 +---------------------------------------------------------------------------
 |   MyNetwork Language Packs
@@ -10,8 +10,7 @@
 +---------------------------------------------------------------------------
 */
 
-$l['forum'] = "Forum:";
-$l['printable_version'] = "Printable Version";
-$l['pages'] = "Pages:";
-$l['thread'] = "Thread:";
-?>
+$l['forum'] = "Ledger:";
+$l['printable_version'] = "Map'd Version";
+$l['pages'] = "Bottles:";
+$l['thread'] = "Tale:";

@@ -30,10 +30,6 @@ $l['mod_options'] ="Cap'n's Settin's";
 $l['close_thread'] = "<strong>Forbidden Tale</strong>: stop any mateys from writin' scrawlin's in me tale.";
 $l['stick_thread'] = "<strong>Anchor Tale:</strong> anchor this tale t' top of yer Ledger.";
 $l['draft_saved'] = "Yer new scrawl be plunder'd to yer drafts.<br />Set a course for yer port!";
-$l['image_verification'] = "Ye be Man or Beast?";
-$l['verification_note'] = "Enter the Code ye see on yer right into the box below. It prevents Beasts from writin', aye.";
-$l['verification_subnote'] = "(case insensitive)";
-$l['invalid_captcha'] = "Yer Verification Code not be right matey. Write the Code as it appears in the portrait, aye.";
 $l['error_post_already_submitted'] = "Yer tale be in this ledger already me hearty! Set a course for the Ledger!";
 $l['no_prefix'] = "No Doubloons";
 $l['forum_rules'] = "{1} - Codes";
@@ -45,9 +41,18 @@ $l['multiquote_external_deselect'] = "scuttle these scrawlin's";
 $l['multiquote_external_one_quote'] = "Sayin' these scrawlin's too";
 $l['multiquote_external_quote'] = "Sayin' these scrawlin's too";
 
-$l['redirect_newthread'] = "Arrr! Ye be tellin' yer tale!"; 
-$l['redirect_newthread_poll'] = "<br />All hands on deck for yer votin' settin's!"; 
-$l['redirect_newthread_moderation'] = "<br />er Cap'n be wantin' to see all new scrawlin's. Set a course for yer Ledger."; 
+$l['redirect_newthread'] = "Arrr! Ye be tellin' yer tale!";
+$l['redirect_newthread_poll'] = "<br />All hands on deck for yer votin' settin's!";
+$l['redirect_newthread_moderation'] = "<br />Yer Cap'n be wantin' to see all new scrawlin's. Set a course for yer Ledger.";
+$l['redirect_newthread_unviewable'] = "<br />Ye cannot be seein' tales in 'tis Ledger Set a course for yer Ledger.";
 $l['redirect_newthread_thread'] = "<br />Set a course for yer tale!";
 $l['invalidthread'] = "Ye be havin' no permissions to be amendin' this scrawl.";
-?>
+
+$l['error_stop_forum_spam_spammer'] = "Yer {1} matches that of a known Beasty. Send yer Cap'n a parrot if me barnacles be wrong.";
+$l['error_stop_forum_spam_fetching'] = "Tharrrr be an error checking if ye be a Beasty. Please try again later.";
+
+$l['error_suspendedposting'] = "Yer scrawlin' privileges are currently suspended {1}.<br /><br />
+
+Suspension Date: {2}";
+$l['error_suspendedposting_temporal'] = "'til {1}";
+$l['error_suspendedposting_permanent'] = "'til the End o' Time";

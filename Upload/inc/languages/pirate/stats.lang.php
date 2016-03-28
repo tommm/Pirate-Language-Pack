@@ -11,10 +11,10 @@
 */
 
 $l['nav_stats'] = "Cap'n's Log";
+$l['stats_disabled'] = "Ye cannot view the statistics as it 'as been forbidden by the Cap'n.";
 
 $l['board_stats'] = "Cap'n's Log";
 $l['none'] = "None";
-$l['nobody'] = "Nobody";
 $l['totals'] = "Totals";
 $l['averages'] = "Averages";
 $l['posts'] = "Scrawlin's:";
@@ -24,6 +24,7 @@ $l['ppd'] = "Scrawlin's a day:";
 $l['tpd'] = "Tales a day:";
 $l['mpd'] = "New Crew in a day:";
 $l['ppm'] = "Scrawls per Deckhand:";
+$l['tpm'] = "Tales per Deckhand:";
 $l['rpt'] = "Reply'n's a tale:";
 $l['no_posts'] = "Nay";
 $l['general'] = "Ship's Log";
@@ -37,4 +38,4 @@ $l['most_viewed_threads'] = "Most Viewed Tales";
 $l['not_enough_info_stats'] = "Sorry, but there is not enough information on this board to generate statistics. Before statistics can be generated this board needs to contain at least 1 member and 1 thread.";
 $l['replies'] = "reply'n's";
 $l['views'] = "viewin's";
-?>
+$l['top_referrer'] = "Most Crew Referred: <strong>{1}</strong> (<strong>{2}</strong> referrals)";
